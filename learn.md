@@ -10,7 +10,7 @@
 
 Amazon S3 (Simple Storage Service) allows you to store and retrieve any amount of data, anytime, from anywhere on the web. In this lab, you will host a static website by uploading your HTML and CSS files to an S3 bucket, enabling static website hosting, and setting the correct permissions.
 
-*Insert Image: AWS S3 Console Screenshot Here*
+
 
 ---
 
