@@ -42,12 +42,18 @@ Amazon S3 (Simple Storage Service) allows you to store and retrieve any amount o
 
 ### Step 2: Create a Bucket
 - Click on **Create bucket**.
+  ![S3 Dashboard Screenshot](image/create.png)
+
 - Enter the following details:
   - **Bucket Name**: `your-unique-bucket-name` (must be globally unique).
   - **Region**: Select your preferred AWS region (e.g., `US East (N. Virginia)`).
-- Click **Create**.
+    ![S3 Dashboard Screenshot](image/.png)
 
-*Insert Image: S3 Create Bucket Page Here*
+- Click **Create**.
+  ![S3 Dashboard Screenshot](image/.png)
+
+
+
 
 ---
 
