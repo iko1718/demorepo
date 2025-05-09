@@ -38,7 +38,7 @@ Amazon S3 (Simple Storage Service) allows you to store and retrieve any amount o
 - Go to the [AWS Management Console](https://console.aws.amazon.com/).
 - In the **Search bar**, type **S3** and select **S3** under services.
 
-*Insert Image: AWS Console Home with S3 Selected Here*
+![S3 Dashboard Screenshot](image/search.png)
 
 ### Step 2: Create a Bucket
 - Click on **Create bucket**.
